@@ -1,0 +1,21 @@
+{
+  "name": "project_documentation",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "bh <psaung299@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/psaung/project_documentation",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "^3.6.0",
+    "mojs": "^0.288.2"
+  }
+}
